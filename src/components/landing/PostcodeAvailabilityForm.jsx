@@ -33,6 +33,7 @@ const PostcodeAvailabilityForm = ({
   buttonLabel = 'Check availability',
   stacked = false,
   compact = false,
+  placeholder = 'Enter postcode (e.g. GU11 3HY)',
 }) => {
   const router = useRouter();
   const inputId = useId();
@@ -96,7 +97,7 @@ const PostcodeAvailabilityForm = ({
               setValue(event.target.value);
               setError('');
             }}
-            placeholder="Enter postcode (e.g. GU11 3HY)"
+            placeholder={placeholder}
             autoComplete="postal-code"
             autoCapitalize="characters"
             spellCheck={false}
