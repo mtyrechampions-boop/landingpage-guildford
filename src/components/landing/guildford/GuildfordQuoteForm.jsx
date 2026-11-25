@@ -67,7 +67,7 @@ const GuildfordQuoteForm = () => {
   return (
     <section
       id="quote"
-      className="scroll-mt-20 lg:scroll-mt-24 bg-gray-50 py-16 md:py-24 px-4 sm:px-6 lg:px-8 border-b border-gray-100"
+      className="scroll-mt-20 lg:scroll-mt-24 bg-gray-50 py-12 md:py-16 px-4 sm:px-6 lg:px-8 border-b border-gray-100"
     >
       <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-14 items-center">
 

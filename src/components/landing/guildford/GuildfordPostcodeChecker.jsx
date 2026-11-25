@@ -6,10 +6,10 @@ import PostcodeAvailabilityForm from '../PostcodeAvailabilityForm';
 
 const GuildfordPostcodeChecker = () => {
   return (
-    <section id="postcode-checker" className="scroll-mt-20 lg:scroll-mt-24 bg-white py-16 md:py-24 px-4 sm:px-6 lg:px-8 border-b border-gray-100">
+    <section id="postcode-checker" className="scroll-mt-20 lg:scroll-mt-24 bg-white py-12 md:py-16 px-4 sm:px-6 lg:px-8 border-b border-gray-100">
       <div className="max-w-3xl mx-auto text-center">
 
-        <div className="inline-flex items-center gap-2 bg-[#FB7E10]/10 border border-[#FB7E10]/20 text-[#FB7E10] px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest mb-4">
+        <div className="inline-flex items-center gap-2 bg-[#FB7E10]/10 border border-[#FB7E10]/20 text-[#FB7E10] px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest mb-3">
           <Radio size={14} />
           <span>Live Guildford Technician Lookup</span>
         </div>
@@ -19,7 +19,7 @@ const GuildfordPostcodeChecker = () => {
           <span className="text-[#FB7E10]">GUILDFORD TYRE TECHNICIAN?</span>
         </h2>
 
-        <p className="text-gray-500 text-base sm:text-lg mb-8 max-w-xl mx-auto">
+        <p className="text-gray-500 text-base sm:text-lg mb-6 max-w-xl mx-auto">
           Enter your UK postcode to verify whether you are within confirmed Guildford Borough service zones (such as GU1, GU12, or GU10), then connect straight to booking or speak directly with our dispatch team.
         </p>
 

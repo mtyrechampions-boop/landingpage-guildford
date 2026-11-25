@@ -33,12 +33,12 @@ const GuildfordCorridors = () => {
   return (
     <section
       id="corridors"
-      className="scroll-mt-20 lg:scroll-mt-24 bg-white py-16 md:py-24 px-4 sm:px-6 lg:px-8 border-b border-gray-100"
+      className="scroll-mt-20 lg:scroll-mt-24 bg-white py-12 md:py-16 px-4 sm:px-6 lg:px-8 border-b border-gray-100"
     >
       <div className="max-w-6xl mx-auto">
 
         {/* Section Header */}
-        <div className="text-center max-w-3xl mx-auto mb-10 md:mb-12">
+        <div className="text-center max-w-3xl mx-auto mb-8 md:mb-10">
           <div className="inline-flex items-center gap-2 bg-[#FB7E10]/10 border border-[#FB7E10]/20 text-[#FB7E10] px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest mb-3">
             <Radio size={14} className="animate-pulse" />
             <span>Interactive Guildford Coverage Map</span>

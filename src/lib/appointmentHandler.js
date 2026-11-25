@@ -1,4 +1,3 @@
-/* global process */
 // Server-side handling of a booking request. Kept out of the route file so it can be unit tested
 // with a fake Strapi, and because Next only allows HTTP-method exports from a route module.
 import {

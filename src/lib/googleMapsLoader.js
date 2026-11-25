@@ -1,4 +1,3 @@
-/* global process */
 // Loads the Google Maps JavaScript API once per page and shares the result.
 // The key comes from NEXT_PUBLIC_GOOGLE_MAPS_API_KEY. It is visible in the browser by design, so it
 // must be restricted to this site's domains (HTTP referrers) and to the Maps JavaScript API in the

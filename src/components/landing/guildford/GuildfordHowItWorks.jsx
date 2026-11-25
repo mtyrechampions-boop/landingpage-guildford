@@ -28,7 +28,7 @@ const GuildfordHowItWorks = () => {
   return (
     <section
       id="how-it-works"
-      className="scroll-mt-20 lg:scroll-mt-24 relative overflow-hidden bg-[#0B1528] py-16 md:py-24 px-4 sm:px-6 lg:px-8"
+      className="scroll-mt-20 lg:scroll-mt-24 relative overflow-hidden bg-[#0B1528] py-12 md:py-16 px-4 sm:px-6 lg:px-8"
     >
       {/* Ambient brand glow */}
       <div className="absolute -top-32 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-[#FB7E10]/10 rounded-full blur-[140px] pointer-events-none" />
@@ -36,7 +36,7 @@ const GuildfordHowItWorks = () => {
       <div className="relative max-w-6xl mx-auto">
 
         {/* Header */}
-        <div className="text-center max-w-3xl mx-auto mb-12 md:mb-16">
+        <div className="text-center max-w-3xl mx-auto mb-8 md:mb-10">
           <div className="inline-flex items-center gap-2 bg-[#FB7E10]/15 border border-[#FB7E10]/30 text-[#FB7E10] px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest mb-4">
             <span className="w-2 h-2 rounded-full bg-[#FB7E10] animate-ping" />
             <span>Three-Step Zero-Friction Process</span>
@@ -87,7 +87,7 @@ const GuildfordHowItWorks = () => {
         </div>
 
         {/* Bottom action banner */}
-        <div className="mt-12 lg:mt-16 rounded-3xl border border-white/10 bg-white/[0.04] backdrop-blur-sm p-6 sm:p-8 text-center">
+        <div className="mt-8 lg:mt-10 rounded-3xl border border-white/10 bg-white/[0.04] backdrop-blur-sm p-6 sm:p-8 text-center">
           <h3 className="text-xl sm:text-2xl font-black text-white tracking-tight">
             Need a Tyre Technician in Guildford Right Now?
           </h3>

@@ -62,12 +62,12 @@ const GuildfordFooter = ({ homeHref = '' }) => {
   const resolve = (href) => (href.startsWith('#') ? `${homeHref}${href}` : href);
 
   return (
-    <footer className="bg-[#0B1528] pt-16 md:pt-24 pb-24 md:pb-12 px-6 sm:px-10 lg:px-20 border-t border-white/5 relative overflow-hidden text-center">
+    <footer className="bg-[#0B1528] pt-12 md:pt-16 pb-24 md:pb-12 px-6 sm:px-10 lg:px-20 border-t border-white/5 relative overflow-hidden text-center">
       {/* Orange hairline across the top edge */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-4xl h-px bg-gradient-to-r from-transparent via-[#FB7E10]/30 to-transparent" />
 
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-y-12 gap-x-8 xl:gap-12 justify-items-center items-start">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-y-10 gap-x-8 xl:gap-12 justify-items-center items-start">
 
           {/* Brand column */}
           <div className="space-y-6 flex flex-col items-center">

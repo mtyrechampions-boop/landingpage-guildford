@@ -1,4 +1,3 @@
-/* global process */
 // Service-area rules. Pure functions, no network access.
 import { locations } from '../data/locations.js';
 

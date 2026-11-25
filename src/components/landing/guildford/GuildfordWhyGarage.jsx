@@ -24,11 +24,11 @@ const PLANNED_POINTS = [
 
 const GuildfordWhyGarage = () => {
   return (
-    <section id="why-us" className="scroll-mt-20 lg:scroll-mt-24 bg-gray-50 py-16 md:py-24 px-4 sm:px-6 lg:px-8 border-b border-gray-100">
+    <section id="why-us" className="scroll-mt-20 lg:scroll-mt-24 bg-gray-50 py-12 md:py-16 px-4 sm:px-6 lg:px-8 border-b border-gray-100">
       <div className="max-w-6xl mx-auto">
 
         {/* Header */}
-        <div className="text-center max-w-3xl mx-auto mb-12 md:mb-16">
+        <div className="text-center max-w-3xl mx-auto mb-8 md:mb-10">
           <div className="inline-flex items-center gap-2 bg-[#FB7E10]/10 border border-[#FB7E10]/20 text-[#FB7E10] px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest mb-3">
             <span>The Mobile Advantage</span>
           </div>

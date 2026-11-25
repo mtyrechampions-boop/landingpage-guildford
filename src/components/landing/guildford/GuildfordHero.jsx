@@ -21,7 +21,7 @@ const GuildfordHero = () => {
   }, []);
 
   return (
-    <section id="top" className="relative bg-[#0A0A0A] text-white pt-8 pb-16 lg:pt-16 lg:pb-24 overflow-hidden border-b border-white/10">
+    <section id="top" className="relative bg-[#0A0A0A] text-white pt-6 pb-12 lg:pt-12 lg:pb-16 overflow-hidden border-b border-white/10">
       {/* Background: fitter photo on mobile & tablet, video on desktop */}
       <div className="absolute inset-0 w-full h-full overflow-hidden pointer-events-none">
         <Image

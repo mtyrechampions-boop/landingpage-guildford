@@ -6,11 +6,11 @@ import { Phone, Calendar } from 'lucide-react';
 
 const GuildfordFinalCTA = () => {
   return (
-    <section id="contact" className="scroll-mt-20 lg:scroll-mt-24 bg-white py-16 md:py-24 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
+    <section id="contact" className="scroll-mt-20 lg:scroll-mt-24 bg-white py-12 md:py-16 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
       {/* Radiant ambient glow */}
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[500px] bg-[#FB7E10]/15 rounded-full blur-[150px] pointer-events-none" />
 
-      <div className="max-w-7xl mx-auto relative rounded-3xl md:rounded-[2.5rem] overflow-hidden bg-gradient-to-br from-[#111111] via-[#1A1A1A] to-[#0A0A0A] border border-white/15 p-8 sm:p-12 md:p-16 lg:p-20 shadow-2xl">
+      <div className="max-w-7xl mx-auto relative rounded-3xl md:rounded-[2.5rem] overflow-hidden bg-gradient-to-br from-[#111111] via-[#1A1A1A] to-[#0A0A0A] border border-white/15 p-6 sm:p-10 md:p-14 lg:p-16 shadow-2xl">
         
         {/* Background Graphic */}
         <div className="absolute top-0 right-0 w-full md:w-1/2 h-full opacity-15 pointer-events-none">
