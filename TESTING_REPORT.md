@@ -34,7 +34,7 @@ All automated tests in the `tests/` directory were executed using the Node.js na
 2. **Exclusion Validation**: Confirms **Ash Vale** is excluded from operational customer coverage and marked under verification.
 3. **Dispatch Hub Role**: Confirms **Aldershot** is designated strictly as the external Operational Hub / Depot in Hampshire, not customer coverage.
 4. **Sector Completeness**: Validates all 5 geographic sectors (Central, Western, Northern, Southern, Eastern).
-5. **Distance Sanity**: Ensures operational distance from the central hub to Guildford is within 30–60 min deployment parameters.
+5. **Distance Sanity**: Ensures operational distance from the central hub to Guildford is within 20–40 min deployment parameters.
 
 ---
 

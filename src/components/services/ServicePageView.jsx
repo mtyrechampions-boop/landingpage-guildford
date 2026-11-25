@@ -93,7 +93,7 @@ const ServicePageView = ({ page }) => {
           </div>
 
           <ul className="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-sm font-bold text-slate-200">
-            {['24/7 dispatch', 'Typical arrival 30–60 min', 'Pay after fitting'].map((item) => (
+            {['24/7 dispatch', 'Typical arrival 20–40 min', 'Pay after fitting'].map((item) => (
               <li key={item} className="flex items-center gap-2">
                 <Check size={16} className="text-[#FB7E10]" aria-hidden="true" /> {item}
               </li>

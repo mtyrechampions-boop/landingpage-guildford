@@ -79,7 +79,7 @@ const GuildfordHero = () => {
 
             {/* Subheadline */}
             <p className="text-lg sm:text-xl md:text-2xl font-black text-white tracking-tight">
-              Emergency Mobile Tyre Fitting in 30–60 Minutes Across Guildford
+              Emergency Mobile Tyre Fitting in 20–40 Minutes Across Guildford
             </p>
 
             {/* Supporting Copy */}
@@ -88,7 +88,7 @@ const GuildfordHero = () => {
             </p>
 
             <p className="text-sm sm:text-base text-slate-400 font-normal leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              <strong className="text-white font-bold">Estimated arrival time is 30–60 minutes</strong> from our central Aldershot dispatch hub via the A31 (Hog's Back) and A3, subject to location and traffic conditions.
+              <strong className="text-white font-bold">Estimated arrival time is 20–40 minutes</strong> from our central Aldershot dispatch hub via the A31 (Hog's Back) and A3, subject to location and traffic conditions.
             </p>
 
             {/* Reassurance points */}

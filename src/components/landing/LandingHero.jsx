@@ -82,7 +82,7 @@ const LandingHero = () => {
 
             {/* Subheadline */}
             <p className="text-lg sm:text-xl md:text-2xl font-black text-white tracking-tight">
-              Emergency Mobile Tyre Fitting in 30–60 Minutes
+              Emergency Mobile Tyre Fitting in 20–40 Minutes
             </p>
 
             {/* Supporting Copy */}
@@ -91,7 +91,7 @@ const LandingHero = () => {
             </p>
 
             <p className="text-sm sm:text-base text-slate-400 font-normal leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              <strong className="text-white font-bold">Estimated arrival time is 30–60 minutes</strong>, subject to location and traffic.
+              <strong className="text-white font-bold">Estimated arrival time is 20–40 minutes</strong>, subject to location and traffic.
             </p>
 
             {/* The three objections, answered up front */}

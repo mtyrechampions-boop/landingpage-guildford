@@ -147,7 +147,7 @@ const GuildfordCoverage = () => {
           <div className="flex items-center justify-center gap-2 mb-5">
             <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-ping"></span>
             <h3 className="text-sm sm:text-base font-black uppercase tracking-widest text-gray-900 text-center">
-              Confirmed Active Service Zones in Guildford Borough (30–60 Min Response)
+              Confirmed Active Service Zones in Guildford Borough (20–40 Min Response)
             </h3>
           </div>
 
@@ -161,7 +161,7 @@ const GuildfordCoverage = () => {
                 <Navigation size={14} className="text-[#FB7E10] group-hover:text-white transition-colors" />
                 <span>{loc.name} ({loc.postcode})</span>
                 <span className="text-[10px] bg-gray-100 group-hover:bg-white/20 text-gray-600 group-hover:text-white px-2 py-0.5 rounded-md font-bold">
-                  30–60 Min
+                  20–40 Min
                 </span>
               </Link>
             ))}

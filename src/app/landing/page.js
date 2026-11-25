@@ -21,10 +21,10 @@ const LANDING_URL = 'https://mobiletyrechampions.com/emergency-mobile-tyre-fitti
 
 export const metadata = {
   title: '24/7 Mobile Tyre Fitting Surrey & Hampshire | Tyre Champions',
-  description: `Flat tyre in Camberley, Farnborough, Guildford, Portsmouth or Southampton? 24/7 mobile tyre fitting, typical 30–60 min arrival. Call 0207 101 3856.`,
+  description: `Flat tyre in Camberley, Farnborough, Guildford, Portsmouth or Southampton? 24/7 mobile tyre fitting, typical 20–40 min arrival. Call 0207 101 3856.`,
   openGraph: {
     title: '24/7 Mobile Tyre Fitting Surrey & Hampshire | Tyre Champions',
-    description: `Flat tyre in Camberley, Farnborough, Guildford, Portsmouth or Southampton? 24/7 mobile tyre fitting, typical 30–60 min arrival. Call 0207 101 3856.`,
+    description: `Flat tyre in Camberley, Farnborough, Guildford, Portsmouth or Southampton? 24/7 mobile tyre fitting, typical 20–40 min arrival. Call 0207 101 3856.`,
     url: LANDING_URL,
     siteName: 'Mobile Tyre Champions',
     images: [

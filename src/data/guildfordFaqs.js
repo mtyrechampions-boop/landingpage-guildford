@@ -6,7 +6,7 @@
 export const GUILDFORD_FAQS = [
   {
     q: "How quickly can you get to me in Guildford?",
-    a: "Our typical estimated arrival time across confirmed Guildford Borough service areas is 30–60 minutes. Our fully equipped mobile tyre vans deploy directly from our central Aldershot hub via the A31 (Hog's Back) and A3. Exact arrival times depend on immediate technician availability and road traffic; our dispatch team gives you a realistic, live arrival window when you call."
+    a: "Our typical estimated arrival time across confirmed Guildford Borough service areas is 20–40 minutes. Our fully equipped mobile tyre vans deploy directly from our central Aldershot hub via the A31 (Hog's Back) and A3. Exact arrival times depend on immediate technician availability and road traffic; our dispatch team gives you a realistic, live arrival window when you call."
   },
   {
     q: "Which areas of Guildford Borough are confirmed for mobile tyre fitting?",

@@ -63,7 +63,7 @@ const LandingCorridors = () => {
                   Aldershot Central Dispatch Hub (GU11)
                 </span>
                 <span className="text-[11px] font-bold text-gray-400">
-                  40-mile primary response radius • 30–60 min estimated arrival
+                  40-mile primary response radius • 20–40 min estimated arrival
                 </span>
               </div>
             </div>

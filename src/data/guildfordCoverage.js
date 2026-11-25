@@ -22,7 +22,7 @@ export const GUILDFORD_HUB = {
   isHub: true,
   role: 'Central Dispatch Hub & Inventory Depot (External Operating Base)',
   distanceToGuildfordMiles: 8.1,
-  responseTime: '30–60 min deployment',
+  responseTime: '20–40 min deployment',
   address: 'Grosvenor Road, Aldershot, GU11 3HY',
 };
 
@@ -43,7 +43,7 @@ export const GUILDFORD_CONFIRMED_LOCATIONS = [
     dir: 'right',
     status: 'Operational',
     statusLabel: 'Confirmed Operational',
-    deploymentEstimate: '30–60 minutes',
+    deploymentEstimate: '20–40 minutes',
     primaryRoads: 'A3, A31 (Hog\'s Back), A281, A322',
     description: 'Guildford town centre, retail parks, commercial districts and central residential areas.',
     coverageType: 'Borough Centre & Key Transport Hub',
@@ -60,7 +60,7 @@ export const GUILDFORD_CONFIRMED_LOCATIONS = [
     dir: 'top',
     status: 'Operational',
     statusLabel: 'Confirmed Operational',
-    deploymentEstimate: '30–60 minutes',
+    deploymentEstimate: '20–40 minutes',
     primaryRoads: 'A323, A31, A331',
     description: 'Ash village, residential areas, and business zones along the western borough border.',
     coverageType: 'Western Borough Community',
@@ -77,7 +77,7 @@ export const GUILDFORD_CONFIRMED_LOCATIONS = [
     dir: 'bottom',
     status: 'Operational',
     statusLabel: 'Confirmed Operational',
-    deploymentEstimate: '30–60 minutes',
+    deploymentEstimate: '20–40 minutes',
     primaryRoads: 'A31 (Hog\'s Back), A331 Interchange',
     description: 'Tongham village and immediate surrounds at the foot of the Hog\'s Back.',
     coverageType: 'Western Road Corridor & Junction',
@@ -104,7 +104,7 @@ export const GUILDFORD_BOROUGH_SECTORS = [
       {
         name: 'Guildford',
         postcode: 'GU1',
-        responseTime: '30–60 min arrival',
+        responseTime: '20–40 min arrival',
         keyAreas: 'Guildford Town Centre, Guildford Station, Commercial Core',
       },
     ],
@@ -122,7 +122,7 @@ export const GUILDFORD_BOROUGH_SECTORS = [
       { name: 'Wood Street Village', postcode: 'GU3', note: 'Subject to live postcode validation' },
       { name: 'Fairlands', postcode: 'GU3', note: 'Subject to live postcode validation' },
     ],
-    summary: 'Guildford (GU1) is an active operational service zone with typical 30–60 min deployment from our Aldershot dispatch hub. Surrounding central residential neighbourhoods are serviced based on technician proximity and validated via our live postcode tool.',
+    summary: 'Guildford (GU1) is an active operational service zone with typical 20–40 min deployment from our Aldershot dispatch hub. Surrounding central residential neighbourhoods are serviced based on technician proximity and validated via our live postcode tool.',
   },
   {
     id: 'western',
@@ -133,13 +133,13 @@ export const GUILDFORD_BOROUGH_SECTORS = [
       {
         name: 'Ash',
         postcode: 'GU12',
-        responseTime: '30–60 min arrival',
+        responseTime: '20–40 min arrival',
         keyAreas: 'Ash Village, Ash Hill, Ash Common',
       },
       {
         name: 'Tongham',
         postcode: 'GU10',
-        responseTime: '30–60 min arrival',
+        responseTime: '20–40 min arrival',
         keyAreas: 'Tongham Village, Poyle Road, A31 Interchange',
       },
     ],
@@ -149,7 +149,7 @@ export const GUILDFORD_BOROUGH_SECTORS = [
       { name: 'Wanborough', postcode: 'GU3', note: 'Verification required' },
       { name: 'Puttenham', postcode: 'GU3', note: 'Verification required' },
     ],
-    summary: 'Ash and Tongham enjoy priority dispatch from our central hub with typical response times of 30–60 minutes.',
+    summary: 'Ash and Tongham enjoy priority dispatch from our central hub with typical response times of 20–40 minutes.',
   },
   {
     id: 'northern',
@@ -220,7 +220,7 @@ export const GUILDFORD_ROAD_CORRIDORS = [
   {
     road: 'A31 (Hog\'s Back)',
     coverage: 'Connecting Aldershot Hub -> Tongham -> Guildford Town Centre',
-    service: 'Primary rapid-transit dispatch artery (30–45 min typical arrival)',
+    service: 'Primary rapid-transit dispatch artery (20–30 min typical arrival)',
   },
   {
     road: 'A331 Corridor',

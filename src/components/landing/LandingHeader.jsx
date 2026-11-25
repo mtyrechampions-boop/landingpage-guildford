@@ -99,8 +99,8 @@ const LandingHeader = ({ homeHref = '' }) => {
               <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-400"></span>
             </span>
             <span className="text-[11px] font-bold uppercase tracking-wider whitespace-nowrap">
-              <span className="sm:hidden">24/7 Dispatch • 30–60 Min Arrival</span>
-              <span className="hidden sm:inline">24/7 Emergency Available Active • 30–60 Min Arrival</span>
+              <span className="sm:hidden">24/7 Dispatch • 20–40 Min Arrival</span>
+              <span className="hidden sm:inline">24/7 Emergency Available Active • 20–40 Min Arrival</span>
             </span>
           </div>
         </div>
@@ -243,7 +243,7 @@ const LandingHeader = ({ homeHref = '' }) => {
               <Phone size={18} className="fill-current" aria-hidden="true" />
               Call Now — {PHONE_DISPLAY}
             </a>
-            <p className="mt-2 text-center text-xs font-semibold text-gray-500">24/7 hotline • 30–60 min typical arrival</p>
+            <p className="mt-2 text-center text-xs font-semibold text-gray-500">24/7 hotline • 20–40 min typical arrival</p>
           </div>
         </div>
       </div>

@@ -33,7 +33,7 @@ const GuildfordPostcodeChecker = () => {
         </div>
 
         <p className="mt-4 text-xs text-gray-400 font-medium">
-          Confirmed operational coverage includes Guildford (GU1), Ash (GU12), and Tongham (GU10) with typical 30–60 min deployment from our Aldershot dispatch hub.
+          Confirmed operational coverage includes Guildford (GU1), Ash (GU12), and Tongham (GU10) with typical 20–40 min deployment from our Aldershot dispatch hub.
         </p>
 
       </div>

@@ -5,7 +5,7 @@ import { Clock, Shield, MapPin, Wrench, CreditCard } from 'lucide-react';
 
 const trustItems = [
   { icon: <Clock className="w-5 h-5 text-[#FB7E10]" />, label: '24/7 AVAILABLE' },
-  { icon: <Shield className="w-5 h-5 text-[#FB7E10]" />, label: '30–60 MIN*' },
+  { icon: <Shield className="w-5 h-5 text-[#FB7E10]" />, label: '20–40 MIN*' },
   { icon: <MapPin className="w-5 h-5 text-[#FB7E10]" />, label: 'WE COME TO YOU' },
   { icon: <Wrench className="w-5 h-5 text-[#FB7E10]" />, label: 'FULLY EQUIPPED' },
   { icon: <CreditCard className="w-5 h-5 text-[#FB7E10]" />, label: 'ZERO UPFRONT RISK' },

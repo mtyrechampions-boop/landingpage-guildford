@@ -13,7 +13,7 @@ const steps = [
   {
     step: '02',
     title: 'Get Your Price & Arrival Window',
-    desc: 'We confirm available tyre stock, provide an all-inclusive fixed quote with no hidden extras, and give you an estimated arrival time (typically 30–60 minutes in confirmed zones). No deposit required.',
+    desc: 'We confirm available tyre stock, provide an all-inclusive fixed quote with no hidden extras, and give you an estimated arrival time (typically 20–40 minutes in confirmed zones). No deposit required.',
     icon: Clock,
   },
   {

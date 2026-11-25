@@ -66,7 +66,7 @@ const GuildfordCorridors = () => {
                   Guildford Operating Centre (Centred: GU1)
                 </span>
                 <span className="text-[11px] font-bold text-gray-400">
-                  Direct dispatch from Aldershot Hub • 30–60 min estimated arrival
+                  Direct dispatch from Aldershot Hub • 20–40 min estimated arrival
                 </span>
               </div>
             </div>

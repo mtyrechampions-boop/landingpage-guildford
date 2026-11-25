@@ -363,10 +363,10 @@ const LandingCorridorsMap = ({ activeRegion, onLocationSelect }) => {
             </button>
           </div>
           <p className="mt-1.5 text-xs text-gray-500 font-medium leading-relaxed">
-            24/7 emergency roadside & mobile tyre replacement. Typical arrival in 30–60 minutes.
+            24/7 emergency roadside & mobile tyre replacement. Typical arrival in 20–40 minutes.
           </p>
           <div className="mt-3 pt-2.5 border-t border-gray-100 flex items-center justify-between gap-2">
-            <span className="text-[11px] font-extrabold text-emerald-600">● 30–60 Min Response</span>
+            <span className="text-[11px] font-extrabold text-emerald-600">● 20–40 Min Response</span>
             <a
               href="tel:02071013856"
               className="inline-flex items-center gap-1 bg-[#FB7E10] hover:bg-orange-600 text-white font-black px-3 py-1.5 rounded-lg text-xs uppercase tracking-wider transition-all shadow-md shadow-orange-500/20 active:scale-95"

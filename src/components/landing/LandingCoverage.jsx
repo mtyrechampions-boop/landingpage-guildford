@@ -93,7 +93,7 @@ const LandingCoverage = () => {
           <div className="flex items-center justify-center gap-2 mb-6">
             <span className="w-2.5 h-2.5 rounded-full bg-[#FB7E10] animate-ping"></span>
             <h3 className="text-sm sm:text-base font-black uppercase tracking-widest text-[#FB7E10] text-center">
-              Active Immediate Dispatch Zones (30–60 Min Response)
+              Active Immediate Dispatch Zones (20–40 Min Response)
             </h3>
           </div>
 

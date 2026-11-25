@@ -15,7 +15,7 @@ const SERVICE_OPTIONS = [
 
 const TRUST_POINTS = [
   'Fixed quote before any work begins in Guildford',
-  'Typical arrival in 30–60 minutes in confirmed zones',
+  'Typical arrival in 20–40 minutes in confirmed zones',
   'Pay only once the tyre is fitted, balanced & checked',
 ];
 

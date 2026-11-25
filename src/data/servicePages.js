@@ -41,7 +41,7 @@ export const SERVICE_PAGES = [
     faqs: [
       {
         q: 'How quickly can you get to me for a flat tyre?',
-        a: 'Typical arrival is 30–60 minutes, depending on your exact location, traffic and the nearest available van. We give you a realistic estimate when we confirm your job rather than promise a time we cannot meet.',
+        a: 'Typical arrival is 20–40 minutes, depending on your exact location, traffic and the nearest available van. We give you a realistic estimate when we confirm your job rather than promise a time we cannot meet.',
       },
       {
         q: 'Do I pay before you arrive?',
@@ -149,7 +149,7 @@ export const SERVICE_PAGES = [
       },
       {
         q: 'How long until a van arrives?',
-        a: 'Typical arrival is 30–60 minutes, depending on location, van availability and live traffic. We confirm an estimate when your job is dispatched.',
+        a: 'Typical arrival is 20–40 minutes, depending on location, van availability and live traffic. We confirm an estimate when your job is dispatched.',
       },
       {
         q: 'Do you really work through the night?',

@@ -18,7 +18,7 @@ test('Guildford operational database contains confirmed locations only', () => {
 
   for (const loc of GUILDFORD_CONFIRMED_LOCATIONS) {
     assert.equal(loc.status, 'Operational');
-    assert.equal(loc.deploymentEstimate, '30–60 minutes');
+    assert.equal(loc.deploymentEstimate, '20–40 minutes');
     assert.ok(loc.lat > 51 && loc.lat < 52, `latitude for ${loc.name} is sane`);
     assert.ok(loc.lng < 0 && loc.lng > -1.5, `longitude for ${loc.name} is sane`);
 

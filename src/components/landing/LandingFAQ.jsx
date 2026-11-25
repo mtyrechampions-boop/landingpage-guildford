@@ -6,7 +6,7 @@ import { HelpCircle, ChevronDown, Phone, MessageSquare } from 'lucide-react';
 const faqs = [
   {
     q: "How quickly can you get to me?",
-    a: "Our typical estimated arrival time is 30–60 minutes. This depends on your exact location, traffic conditions and the nearest available fitting van. We'll give you a realistic arrival estimate when we confirm your dispatch, rather than promise a time we can't meet."
+    a: "Our typical estimated arrival time is 20–40 minutes. This depends on your exact location, traffic conditions and the nearest available fitting van. We'll give you a realistic arrival estimate when we confirm your dispatch, rather than promise a time we can't meet."
   },
   {
     q: "Can you change my tyre on the motorway?",

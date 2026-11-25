@@ -316,7 +316,7 @@ const GuildfordCorridorsMap = ({ onLocationSelect, activeSector = 'all' }) => {
           </p>
           <div className="mt-3 pt-2.5 border-t border-gray-100 flex items-center justify-between gap-2">
             <span className="text-[11px] font-extrabold text-emerald-600">
-              ● {selectedLocation.deploymentEstimate || '30–60 Min Response'}
+              ● {selectedLocation.deploymentEstimate || '20–40 Min Response'}
             </span>
             <a
               href="tel:02071013856"

@@ -15,7 +15,7 @@ const SERVICE_OPTIONS = [
 
 const TRUST_POINTS = [
   'Fixed quote before any work begins',
-  'Typical arrival in 30–60 minutes',
+  'Typical arrival in 20–40 minutes',
   'Pay only once the tyre is fitted and checked',
 ];
 

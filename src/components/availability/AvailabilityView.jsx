@@ -180,7 +180,7 @@ const AvailabilityView = () => {
           <p className="flex items-start gap-2 text-sm font-semibold text-gray-600">
             <Clock size={18} className="shrink-0 mt-0.5 text-[#FB7E10]" aria-hidden="true" />
             <span>
-              We confirm fitter availability and your arrival time when you book or call. Typical arrival is 30–60 minutes,
+              We confirm fitter availability and your arrival time when you book or call. Typical arrival is 20–40 minutes,
               depending on your location, van availability and traffic.
             </span>
           </p>

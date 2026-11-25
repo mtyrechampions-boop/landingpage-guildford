@@ -112,7 +112,7 @@ const guildfordHomepageSchema = {
         name: 'Guildford Borough',
       },
       description:
-        'Rapid mobile tyre fitting and emergency roadside assistance in Guildford, Ash, and Tongham with typical 30–60 min deployment from our central Aldershot hub.',
+        'Rapid mobile tyre fitting and emergency roadside assistance in Guildford, Ash, and Tongham with typical 20–40 min deployment from our central Aldershot hub.',
     },
     {
       '@type': 'FAQPage',
